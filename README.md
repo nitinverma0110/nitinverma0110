@@ -3,13 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Nitin Verma</h1>
-<h3 align="center">An experienced Data Analyst from Canada</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinverma0110&label=Profile%20views&color=0e75b6&style=flat" alt="nitinverma0110" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitinverma0110" alt="nitinverma0110" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nitinverma01" target="blank"><img src="https://img.shields.io/twitter/follow/nitinverma01?logo=twitter&style=for-the-badge" alt="nitinverma01" /></a> </p>
+<h3 align="center">An experienced Data Analyst from Toronto, Canada 🍁</h3>
 
 - 🔭 I’m currently working on [Sentiment Analysis of COVID-19 Emotional Contagion on Twitter using Python](https://github.com/nitinverma0110/capstone-project)
 
@@ -23,7 +17,7 @@
 
 - 📫 How to reach me **nitinvermacanada@gmail.com**
 
-- ⚡ Fun fact **I play Guitar and click a lot of pictures**
+- ⚡ Fun fact **I play guitar and click a lot of pictures**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
