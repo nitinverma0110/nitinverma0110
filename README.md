@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Regression, Classification & Visualization**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nitinverma0110/](https://github.com/nitinverma0110/)
+- 👨‍💻 All of my projects are available at [https://github.com/nitinverma0110?tab=repositories](https://github.com/nitinverma0110?tab=repositories)
 
 - 💬 Ask me about **Tableau, SQL, Power BI, Regression, Classification**
 
