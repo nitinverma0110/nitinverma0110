@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Analytics for Business at St. Clair College**
 
-- 🤝 I’m looking for help with **Regression, Classification & Visualization**
+- 🤝 I’m looking for help with **Unsupervised Learning & Advanced Statistics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nitinverma0110?tab=repositories](https://github.com/nitinverma0110?tab=repositories)
 
